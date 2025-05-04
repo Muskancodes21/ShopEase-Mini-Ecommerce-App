@@ -5,7 +5,7 @@ ShopEase is a simple and responsive e-commerce web application built using React
 
 
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 ### Frontend:
 - React.js (Hooks, Components)
